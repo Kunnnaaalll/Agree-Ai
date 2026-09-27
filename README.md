@@ -32,7 +32,7 @@ AgreeAI is an AI-powered meeting intelligence and project execution platform. Un
 ### 1. Clone & Install Dependencies
 
 ```bash
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/Agree-Ai.git
+git clone https://github.com/Kunnnaaalll/Agree-Ai.git
 cd Agree-Ai/frontend
 npm install
 ```
