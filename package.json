@@ -1,0 +1,10 @@
+{
+  "name": "agree-ai-workspace",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "npm run build --prefix frontend",
+    "dev": "npm run dev --prefix frontend"
+  }
+}
